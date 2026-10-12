@@ -1,0 +1,6 @@
+interface:
+  display_name: "PDF Extract"
+  short_description: "Convert local PDFs to cleaned Markdown via MinerU"
+  default_prompt: "Use $pdf-extract to turn my PDF into cleaned Markdown."
+policy:
+  allow_implicit_invocation: true

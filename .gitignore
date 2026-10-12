@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# install-time pinned config (generated, machine-specific)
+pdf-extract.env
+
+# local copyrighted sources + personal experiment notes
+source-test/
+
